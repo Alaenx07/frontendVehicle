@@ -1,0 +1,16 @@
+[
+    {
+      "name": "Restaurant A",
+      "latitude": 17.96149879872172,
+      "longitude": 102.60976655103525,
+      "image":"https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "name": "Restaurant B",
+      "latitude": 17.965123,
+      "longitude": 102.612345,
+      "image": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60"
+    }
+
+  ]
+  
